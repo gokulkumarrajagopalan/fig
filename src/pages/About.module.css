@@ -1,0 +1,91 @@
+.th1Icon {
+  position: absolute;
+  top: 217px;
+  left: 651px;
+  width: 808px;
+  height: 839px;
+  object-fit: cover;
+}
+.w {
+  text-transform: uppercase;
+}
+.whoAmIContainer {
+  position: absolute;
+  top: 142px;
+  left: 59px;
+  display: inline-block;
+  font-family: var(--font-roboto);
+  white-space: pre-wrap;
+  width: 534px;
+}
+.asYouKnow {
+  margin: 0;
+}
+.asYouKnowContainer {
+  position: absolute;
+  top: 217px;
+  left: 186px;
+  font-size: var(--font-size-13xl);
+}
+.b,
+.mViews,
+.videos {
+  position: absolute;
+  top: 410px;
+  left: 227px;
+}
+.mViews,
+.videos {
+  top: 598px;
+}
+.mViews {
+  top: 776px;
+}
+.connectedMyVideos,
+.editedByMe,
+.socialMediaAudience {
+  position: absolute;
+  left: 227px;
+  font-size: var(--font-size-13xl);
+  font-weight: 300;
+}
+.socialMediaAudience {
+  top: 492px;
+  white-space: pre-wrap;
+}
+.connectedMyVideos,
+.editedByMe {
+  top: 680px;
+}
+.connectedMyVideos {
+  top: 862px;
+}
+.phvideoBoldIcon,
+.raphaelviewIcon,
+.skillIconsinstagram {
+  position: absolute;
+  top: 590px;
+  left: 84px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.raphaelviewIcon,
+.skillIconsinstagram {
+  top: 423px;
+  left: 92px;
+}
+.raphaelviewIcon {
+  top: 788px;
+}
+.about {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

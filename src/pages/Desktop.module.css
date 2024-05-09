@@ -1,0 +1,241 @@
+.desktop1Child {
+  position: absolute;
+  top: calc(50% - 620px);
+  left: 0;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 1240px;
+}
+.pexelsPhotoByPixabay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+}
+.about,
+.contact,
+.main,
+.signup {
+  width: 119px;
+  position: relative;
+  display: inline-block;
+  height: 48px;
+  flex-shrink: 0;
+}
+.about,
+.contact,
+.signup {
+  width: 156px;
+}
+.contact,
+.signup {
+  width: 189px;
+}
+.signup {
+  width: 192px;
+}
+.mainParent {
+  position: absolute;
+  top: 20px;
+  left: 527px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 41px;
+}
+.steveEditor {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  font-size: 48px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 399px;
+  height: 82px;
+}
+.frameParent {
+  position: absolute;
+  top: 31px;
+  left: 60px;
+  width: 1261px;
+  height: 89px;
+}
+.riinstagramFillIcon {
+  width: 60px;
+  position: relative;
+  height: 69px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.riinstagramFillParent {
+  position: absolute;
+  top: 926px;
+  left: 64px;
+  width: 195px;
+  height: 47px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.andMakeMoney,
+.editLikePro {
+  position: absolute;
+  left: 73px;
+  display: inline-block;
+}
+.editLikePro {
+  top: 0;
+  text-transform: uppercase;
+  width: 736px;
+  height: 136px;
+}
+.andMakeMoney {
+  top: 95px;
+  width: 576px;
+  height: 109px;
+}
+.buyANew {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.thatDomainWithin {
+  margin: 0;
+}
+.buyANewContainer {
+  position: absolute;
+  top: 221px;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 827px;
+  height: 142px;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 7px 7px 25px rgba(0, 0, 0, 0.25);
+  border-radius: 29px;
+  background-color: #18cc1f;
+  width: 282px;
+  height: 78px;
+}
+.order,
+.rectangleParent {
+  position: absolute;
+  top: 9px;
+  left: 98px;
+}
+.rectangleParent {
+  top: 336px;
+  left: 154px;
+  width: 282px;
+  height: 78px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+}
+.mdiarrowIcon {
+  position: absolute;
+  top: 367px;
+  left: 441px;
+  width: 57.2px;
+  height: 57.2px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.orderFromHereContainer {
+  position: absolute;
+  top: 339px;
+  left: 508.1px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-mogra);
+  transform: rotate(10deg);
+  transform-origin: 0 0;
+}
+.frameChild {
+  position: absolute;
+  top: 363px;
+  left: 436px;
+  width: 590.5px;
+  height: 238.2px;
+  object-fit: contain;
+}
+.editLikeProParent {
+  position: absolute;
+  top: 340px;
+  left: 395px;
+  width: 827px;
+  height: 424.2px;
+  font-size: var(--font-size-45xl);
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 7px 7px 5px rgba(0, 0, 0, 0.5);
+  background-color: #181818;
+  width: 421.5px;
+  height: 100px;
+}
+.photoshop {
+  position: absolute;
+  top: 41px;
+  left: 149px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 406.4px;
+}
+.deviconpremierepro,
+.vectorIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.vectorIcon {
+  height: 29.7%;
+  width: 4.25%;
+  top: 41%;
+  right: 29.89%;
+  bottom: 29.3%;
+  left: 65.86%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.deviconpremierepro {
+  top: 18px;
+  left: 19.1px;
+  width: 63.6px;
+  height: 64px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 850px;
+  left: 459px;
+  width: 555.4px;
+  height: 100px;
+  font-size: 23px;
+  font-family: var(--font-roboto);
+}
+.desktop1Item {
+  position: absolute;
+  top: 648px;
+  left: 218px;
+  width: 568.6px;
+  height: 279.1px;
+  object-fit: contain;
+}
+.desktop1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-monda);
+}

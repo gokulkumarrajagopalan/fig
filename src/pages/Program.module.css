@@ -1,0 +1,76 @@
+.plate11,
+.whatAwaitsYou {
+  position: absolute;
+  top: 127px;
+  left: 60px;
+}
+.plate11 {
+  top: 0;
+  left: 0;
+  box-shadow: 0 7px 15px rgba(0, 0, 0, 0.15);
+  border-radius: var(--br-base);
+  background-color: var(--color-gray-100);
+  width: 305px;
+  height: 370px;
+}
+.forHom {
+  position: absolute;
+  top: 24px;
+  left: 68px;
+}
+.ioncameraSharpIcon {
+  position: absolute;
+  top: 76px;
+  left: 80px;
+  width: 145px;
+  height: 142px;
+  overflow: hidden;
+}
+.newDomainName {
+  margin: 0;
+}
+.newDomainNameContainer {
+  position: absolute;
+  top: 231px;
+  left: 24px;
+  font-size: var(--font-size-5xl);
+}
+.plate1 {
+  width: 305px;
+  position: relative;
+  height: 341px;
+}
+.whatItGives {
+  position: absolute;
+  top: 24px;
+  left: 55px;
+  display: inline-block;
+  width: 340px;
+}
+.experience,
+.plate1Parent {
+  position: absolute;
+  top: 24px;
+  left: 59px;
+}
+.plate1Parent {
+  top: 374px;
+  left: 138px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 124px;
+  font-size: var(--font-size-13xl);
+}
+.program {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
